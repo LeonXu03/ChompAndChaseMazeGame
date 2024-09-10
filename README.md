@@ -4,6 +4,9 @@ This PAC-MAN game was designed, implemented, and completed as a personal side pr
 
 While PAC-MAN served as this project's source of inspiration, all gameplay elements and mechanics are original and uniquely designed by me.
 
+## Demo
+https://github.com/user-attachments/assets/5004e4ff-b6ea-4992-b7e9-b0286df6b7e3
+
 ## Play Me
 1. Download [Java](https://www.oracle.com/ca-en/java/technologies/downloads/) for your operating system
 2. Download [PacmanGame.jar](PacmanGame.jar)
