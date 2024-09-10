@@ -24,3 +24,5 @@ While PAC-MAN served as this project's source of inspiration, all gameplay eleme
 
 ## Copyright
 All PAC-MAN resources and assets used in this game are the intellectual property of Bandai Namco Entertainment
+
+Last updated: Monday September 9th, 2024
