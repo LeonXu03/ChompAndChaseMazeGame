@@ -1,6 +1,6 @@
-# Pac-Man Game
+# Chomp and Chase Maze Game
 
-This PAC-MAN game was designed, implemented, and completed as a personal side project of mine. This is an homage to the game that inspired me to start learning software development. 
+This game was designed, implemented, and completed as a personal side project of mine. This is an homage to the game that inspired me to start learning software development. 
 
 While PAC-MAN served as this project's source of inspiration, all gameplay elements and mechanics are original and uniquely designed by me.
 
